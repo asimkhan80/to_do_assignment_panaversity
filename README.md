@@ -1,3 +1,4 @@
+# to_do_assignment_panaversity
 # Terminal-based Todo List App
 
 A simple, yet effective, command-line interface (CLI) application for managing your daily tasks. Built entirely in Python, this app provides core to-do list functionalities without leaving the comfort of your terminal.
